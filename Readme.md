@@ -1,3 +1,5 @@
-# Introduction
+# Website Resources Creation Project
 
-This project involves creating a Website using HTML and includes various styles and optimizations that make the website more user friendly.
+## Introduction
+
+In this project I have developed a website using HTML which includes various styles and optimizations that make the website more user friendly.
